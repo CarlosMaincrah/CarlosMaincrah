@@ -2,6 +2,7 @@
 
 ## I'm a Student from Mexico!
 - 🔭 I’m currently working with some of my friends to bring some of our coding ideas to life!
+- ⚡ Will participate in Amazon's new Alexa Conversations contest
 - 🌱 I’m currently studying a Software Engineering degree and I will graduate in 2023
 - 🥅 2020 Goals: Currently practicing and building containerized apps
 - ⚡ Always willing to learn something new
