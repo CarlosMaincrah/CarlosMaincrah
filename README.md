@@ -1,4 +1,4 @@
-### Hey, I'm Carlos Eduardo 👋
+### Hey, I'm Carlos 👋
 
 ## I’m a Software Engineering Student!
 - 🔭 I’m currently working with some of my friends to bring some of our coding ideas to life!
