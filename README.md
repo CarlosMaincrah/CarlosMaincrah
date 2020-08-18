@@ -7,7 +7,7 @@
 - 🌱 Always willing to learn something new
 - 📕 1+ year of experience with Python - Solid foundation in C and Networking - Interested and has basic knowledge in Machine Learning
 
-- You can visit my webpage [here][pisich.github.io]
+- You can visit my webpage [here][pisich]
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][carlos_linkedin]
@@ -35,3 +35,4 @@
 [carlos_instagram]: https://instagram.com/carlospostings
 [carlos_linkedin]: https://www.linkedin.com/in/carlos-eduardo-rodr%C3%ADguez-castro-4186b91b0/
 [carlos_github]: https://github.com/Pisich
+[pisich]: https://pisich.github.io
