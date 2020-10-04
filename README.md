@@ -1,7 +1,7 @@
 ### Hey, I'm Carlos 👋
 
 ## I’m a Systems Engineering Student!
-- 🔭 I’m currently working with some of my friends to bring some of our coding ideas to life!
+- 🔭 I’m currently working with my colleagues to bring some of our coding ideas to life!
 - ⚡ I’m currently studying a Systems Engineering degree and I will graduate in 2023
 - 🥅 2020 Goals: Currently practicing and building containerized apps
 - 🌱 Always willing to learn something new
