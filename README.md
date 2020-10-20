@@ -8,6 +8,7 @@
 - 📕 1+ year of experience in Python and C - Solid foundation in Networking - Interested and has basic knowledge in Machine Learning
 
 You can visit my personal portfolio [here][pisich_webpage]</br>
+<br />
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][carlos_linkedin]
 <br />
 
