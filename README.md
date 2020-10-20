@@ -1,18 +1,14 @@
 ### Hey, I'm Carlos 👋
 
-## I’m a Systems Engineering Student!
+## I’m a Systems Engineering Student! 
 - 🔭 I’m working with my colleagues to bring some of our coding ideas to life!
 - ⚡ I’m currently studying a Systems Engineering degree and I will graduate in 2023
 - 🥅 2020 Goals: Currently practicing and building containerized apps
 - 🌱 Always willing to learn something new
 - 📕 1+ year of experience in Python and C - Solid foundation in Networking - Interested and has basic knowledge in Machine Learning
 
-You can visit my personal portfolio [here][pisich_webpage]
-### Connect with me:
-
+You can visit my personal portfolio [here][pisich_webpage]</br>
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][carlos_linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][carlos_instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -34,7 +30,6 @@ You can visit my personal portfolio [here][pisich_webpage]
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pisich&show_icons=true&hide_border=true" />
 
-[carlos_instagram]: https://instagram.com/carlospostings
 [carlos_linkedin]: https://www.linkedin.com/in/carlos-eduardo-rodr%C3%ADguez-castro-4186b91b0/
 [carlos_github]: https://github.com/Pisich
 [pisich_webpage]: https://pisich.github.io
