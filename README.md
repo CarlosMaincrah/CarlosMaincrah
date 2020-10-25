@@ -9,7 +9,7 @@
 
 You can visit my personal portfolio [here][pisich_webpage]</br>
 <br />
-<- My LinkedIn [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][carlos_linkedin]
+<-- My LinkedIn [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][carlos_linkedin]
 <br />
 
 ### Languages and Tools:
