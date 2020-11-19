@@ -17,7 +17,7 @@ You can visit my personal portfolio [here][pisich_webpage]</br>
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][carlos_github]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png" />][carlos_github]
 [<img align="left" alt="GNU Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/1200px-NewTux.svg.png" />][carlos_github]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png" />][carlos_github]
+[<img align="left" alt="C Language" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][carlos_github]
 [<img align="left" alt="Cisco Packet Tracer" width="26px" src="https://redyseguridad.fi-b.unam.mx/Lab/images/icons/PT.png" />][carlos_github]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][carlos_github]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][carlos_github]
