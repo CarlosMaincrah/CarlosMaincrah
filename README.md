@@ -3,7 +3,7 @@
 ## I’m a Systems Engineering Student! 
 - 🔭 I’m working with my colleagues to bring some of our coding ideas to life!
 - ⚡ I’m currently studying a Systems Engineering degree and I will graduate in 2023
-- 🥅 2020 Goals: Currently practicing and building containerized apps
+- 🥅 2021 Goals: Currently practicing and building applications that connect to databases
 - 🌱 Always willing to learn something new
 - 📕 1+ year of experience in Python and C - Solid foundation in Networking - Interested and has basic knowledge in Machine Learning
 
