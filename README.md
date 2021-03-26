@@ -25,7 +25,7 @@ You can visit my personal portfolio [here][pisich_webpage]</br>
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][carlos_github]
 [<img align="left" alt="Docker" width="22px" src="https://i2.wp.com/www.clubdetecnologia.net/wp-content/uploads/2017/11/docker-logo.png?fit=269%2C201&ssl=1" />][carlos_github]
 [<img align="left" alt="Bash" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" />][carlos_github]
-
+[<img align="left" alt="Java" width="22px" src="https://image.pngaaa.com/493/2459493-middle.png" />][carlos_github]
 
 <br />
 <br />
