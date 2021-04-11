@@ -32,6 +32,6 @@ You can visit my personal portfolio [here][pisich_webpage]</br>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pisich&show_icons=true&hide_border=true" />
 
-[carlos_linkedin]: https://www.linkedin.com/in/carlos-eduardo-rodr%C3%ADguez-castro-4186b91b0/
+[carlos_linkedin]: https://www.linkedin.com/in/CarlosRodriguezCastro
 [carlos_github]: https://github.com/Pisich
 [pisich_webpage]: https://pisich.github.io
