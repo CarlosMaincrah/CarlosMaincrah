@@ -5,7 +5,7 @@
 - ⚡ I’m currently studying a Systems Engineering degree and I will graduate in 2023
 - 🥅 2021 Goals: Currently practicing and building applications that connect to databases
 - 🌱 Always willing to learn something new
-- 📕 1+ year of experience in Python and C - Solid foundation in Networking - Interested and has basic knowledge in Machine Learning
+- 📕 1+ year of experience in Python and C/C++ - Solid foundation in Networking - Interested and has basic knowledge in Machine Learning
 
 You can visit my personal portfolio [here][pisich_webpage]</br>
 <br />
