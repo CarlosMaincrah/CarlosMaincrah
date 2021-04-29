@@ -3,7 +3,7 @@
 ## I’m a Systems Engineering Student! 
 - 🔭 I’m working with my colleagues to bring some of our coding ideas to life!
 - ⚡ I’m currently studying a Systems Engineering degree and I will graduate in 2023
-- 🥅 2021 Goals: Currently practicing and building applications that connect to databases
+- 🥅 2021 Goals: Currently practicing and building applications that connect to databases - Perfecting my C/C++ skills
 - 🌱 Always willing to learn something new
 - 📕 1+ year of experience in Python and C/C++ - Solid foundation in Networking - Interested and has basic knowledge in Machine Learning
 
@@ -26,6 +26,7 @@ You can visit my personal portfolio [here][pisich_webpage]</br>
 [<img align="left" alt="Docker" width="22px" src="https://i2.wp.com/www.clubdetecnologia.net/wp-content/uploads/2017/11/docker-logo.png?fit=269%2C201&ssl=1" />][carlos_github]
 [<img align="left" alt="Bash" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" />][carlos_github]
 [<img align="left" alt="Java" width="22px" src="https://orade.com/wp-content/uploads/2017/10/java-logo-300x255.jpg" />][carlos_github]
+[<img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][carlos_github]
 
 <br />
 <br />
