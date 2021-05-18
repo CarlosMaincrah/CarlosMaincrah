@@ -14,7 +14,6 @@ Visit my personal portfolio [here][pisich_webpage]</br>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][carlos_github]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png" />][carlos_github]
 [<img align="left" alt="GNU Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/1200px-NewTux.svg.png" />][carlos_github]
 [<img align="left" alt="C Language" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][carlos_github]
